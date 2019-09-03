@@ -23,6 +23,17 @@ header {
     border: 20px, none, none;
 }
 
+footer {
+  position: fixed;
+  bottom: 0;
+}
+
+#placeholderFooter {
+  text-align: center;
+  padding: 10px;
+  background-color: #f4b6aa;
+}
+
 a {
     font-size: 12px;
     text-decoration: none;
@@ -157,4 +168,3 @@ form {
     cursor: pointer;
     border-radius: 5px;
   }
-*/
